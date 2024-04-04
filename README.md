@@ -7,7 +7,7 @@ You are welcome to use any code or assets in any project, personal or public, as
 
 This repo includes:
 
-The resource pack, which features many 3D models created by myself for enemies, items, and misc. materials inspired by the Legend of Zelda series. NOTE: Included is a music system, with tracks I obtained permission for from the two musicians (credited in the map itself). As I didn't create this music, I will be removing it, which removes some functionality of the map.
+The resource pack, which features many 3D models created by myself for enemies, items, and misc. materials inspired by the Legend of Zelda series. NOTE: Included is a music system, with tracks I obtained permission for from the two musicians (credited in the map itself). As I didn't create this music, I will be removing it, which removes some functionality of the map. It was too big to upload to github, so it is here: https://www.mediafire.com/file/5i529jabpz72fa5/Fallen+Hero+Resources.zip/file
 
 A Minecraft map with a couple dungeons and an open world (it is outdated, I honestly don't know what version it will work best in, I believe 1.19) and many datapacks for health, money, dungeon, mob, and item functionality. Some of the code is from other people or other projects, and I have done my best to credit everyone whose code I have used, as well as asking permission where necessary. If you find your code and weren't credited sufficiently, please let me know and I will remove it.
 
